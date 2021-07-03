@@ -1,0 +1,75 @@
+
+    {"productList":[
+        {
+            "id":1,
+            "title":"Notebook hp",
+            "description":"HP/ INTEL® CORE™ I3 / 8GB RAM / 512GB SSD / INTEL UHD GRAPHICS / 15.6” FHD",
+            "price":599000,
+            "picyureUrl":"https://home.ripley.cl/store/Attachment/WOP/D113/2000383107424/2000383107424_2.jpg"
+    
+    
+        },
+        {
+            "id":2,
+            "title":"Notebook Acer",
+            "description":"ACER ASPIRE 5 / INTEL® CORE™ I3 / 8GB RAM / 512GB SSD / INTEL UHD GRAPHICS / 15.6” FHD",
+            "price":300000,
+            "picyureUrl":"https://http2.mlstatic.com/D_NQ_NP_604938-MLC46493456353_062021-O.webp"
+    
+    
+        },
+        {
+            "id":3,
+            "title":"Notebook Asus",
+            "description":"ASUS X415EA / INTEL® CORE™ I7 / 8GB RAM / 512GB SSD / INTEL UHD GRAPHICS / 14",
+            "price":700000,
+            "picyureUrl":"https://home.ripley.cl/store/Attachment/WOP/D113/2000382093650/2000382093650_2.jpg"
+    
+    
+        },
+        {
+            "id":4,
+            "title":"Notebook Lenovo",
+            "description":"LENOVO IDEAPAD S340 / INTEL® CORE™ I5 / 4GB RAM / 256GB SSD / 14",
+            "price":499000,
+            "picyureUrl":"https://home.ripley.cl/store/Attachment/WOP/D113/2000379795482/2000379795482_2.jpg"
+    
+    
+        },
+        {
+            "id":5,
+            "title":"Notebook Huawei",
+            "description":"HUAWEI MATEBOOK D15 / INTEL® CORE™ I5 / 16GB RAM / 512GB SSD / INTEL IRIS XE / 15.6",
+            "price":999000,
+            "picyureUrl":"https://home.ripley.cl/store/Attachment/WOP/D113/2000383377667/2000383377667_2.jpg"
+    
+    
+        },
+        {
+            "id":6,
+            "title":"MACBOOK AIR",
+            "description":"MACBOOK AIR M1 / GPU 7C / 8GB RAM / 256GB SSD / 13.3",
+            "price":1000000,
+            "picyureUrl":"https://home.ripley.cl/store/Attachment/WOP/D113/2000383032436/2000383032436_2.jpg"
+    
+    
+        },
+        {
+            "id":7,
+            "title":"Notebook hp",
+            "description":"equipo con 1 tera de disco duro, 8gb de ram etc",
+            "price":1200000,
+            "picyureUrl":"https://home.ripley.cl/store/Attachment/WOP/D113/2000382288391/2000382288391_2.jpg"
+    
+    
+        },
+        {
+            "id":8,
+            "title":"Notebook Dell",
+            "description":"DELL INSPIRON 15 3505 / AMD RYZEN™ 7 / 8GB RAM / 512GB SSD / AMD RADEON RX VEGA 10 / 15.6",
+            "price":700000,
+            "picyureUrl":"https://home.ripley.cl/store/Attachment/WOP/D113/2000381884198/2000381884198_2.jpg"
+    
+    
+        }
+    ]}

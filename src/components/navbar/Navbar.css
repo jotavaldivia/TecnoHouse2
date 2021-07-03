@@ -1,0 +1,40 @@
+
+.color-textnav{
+    color:white !important;
+}
+
+.container__logo{
+    display:flex !important;
+}
+
+.container__logo img{
+    width:80% !important;
+    background-color: aqua !important;
+}
+
+.navbar-toggler{
+    width: 100%;
+}
+.iconCartDesktop{
+    display:none;
+}
+.iconCartMobile {
+    display: flex;
+  }
+@media (min-width: 1001px) {
+    .iconCartMobile {
+      display: none;
+    }
+    .iconCartDesktop{
+        display:flex;
+    }
+
+    .container__logo img{
+        width: 50% !important;
+    }
+  }
+
+
+  #navbarScrollingDropdown{
+color: beige !important;
+  }

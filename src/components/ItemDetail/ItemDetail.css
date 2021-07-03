@@ -1,0 +1,41 @@
+.container__detail{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap: wrap;
+}
+
+.container__detail__img img{
+max-width:450px
+}
+
+.container__detail__description{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    padding: 2rem;
+    
+}
+.addButton{
+
+width: 40%;
+text-align:center;
+}
+
+.container__detail__description p{
+    max-width: 400px;
+}
+
+@media (max-width: 600px) {
+    .addButton{
+
+        width: 60%;
+        }
+
+        .container__detail__img img{
+            max-width:300px
+            }
+            
+        
+  }
